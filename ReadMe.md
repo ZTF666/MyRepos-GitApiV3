@@ -16,7 +16,7 @@ Edit the part where it says {USER_NAME} with yours or someone else and you're do
 
 ```
 
-![Screenshot](/scrshts/request.png)
+![Screenshot](Code/scrshts/request.png)
 
 ## Limitations
 
