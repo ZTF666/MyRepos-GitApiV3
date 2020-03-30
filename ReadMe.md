@@ -17,7 +17,7 @@ Search 👀 : looks up a user on github and displays all of his PUBLIC repos .
 ![Screenshot](Code/scrshts/main.png)
 
 ```
-Export : exports a user's public repos into a CSV file .
+Export 📥 : exports a user's public repos into a CSV file .
 ```
 
 ![Screenshot](Code/scrshts/prompt.png)
@@ -45,3 +45,5 @@ Since the request doesn't implement an authentication , you're gonna be limited 
 and authentication bumps that to 5K/hour if i recall .
 good luck
 ```
+
+Made with 💘 by a 👨‍💻 on a 💻 for 👨‍💻 | 2020 | ZTF666
