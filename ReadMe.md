@@ -44,7 +44,7 @@ Edit the part where it says {USER_NAME} with yours or someone else's and you're 
 there's no need to edit anything anymore .
 ```
 
-![Screenshot](Code/scrshts/requestUpadated.png)
+![Screenshot](Code/scrshts/requestUpdated.png)
 
 ## Limitations
 
