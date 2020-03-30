@@ -1,6 +1,6 @@
 let request = new XMLHttpRequest()
 
-request.open('GET', 'https://api.github.com/users/ZTF666/repos', true)
+request.open('GET', 'https://api.github.com/users/{USER_NAME}}/repos', true)
 
 request.onload = function () {
     let data = JSON.parse(this.response);
