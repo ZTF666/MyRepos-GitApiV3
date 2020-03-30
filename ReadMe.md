@@ -38,6 +38,14 @@ Edit the part where it says {USER_NAME} with yours or someone else's and you're 
 
 ![Screenshot](Code/scrshts/request.png)
 
+## EDIT : this was changed later on with the search feature implemented .
+
+```
+there's no need to edit anything anymore .
+```
+
+![Screenshot](Code/scrshts/requestUpadated.png)
+
 ## Limitations
 
 ```

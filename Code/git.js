@@ -10,17 +10,14 @@ searchBtn.addEventListener("click", e => {
   if (searchTerm != "") {
     var str = searchTerm;
 
-    request.open(
-      "GET",
-      "https://api.github.com/users/" + str.replace(/\s/g, "") + "/repos",
-      true
-    );
-    request.onload = function() {
+    request.open("GET", "https://api.github.com/users/" + str.replace(/\s/g, "") + "/repos", true);
+
+    request.onload = function () {
       let data = JSON.parse(this.response);
       // console.log(data)
       let statusHtml = "";
 
-      $.each(data, function(i, status) {
+      $.each(data, function (i, status) {
         statusHtml += "<tr>";
         statusHtml += "<td>" + status.id + "</td>";
         statusHtml += "<td>" + status.name + "</td>";
@@ -44,6 +41,6 @@ searchBtn.addEventListener("click", e => {
     error.textContent = "Please Fill the search field !";
   }
 });
-setTimeout(function() {
+setTimeout(function () {
   document.querySelector("#error").textContent = "My Github Repos";
 }, 3000);
