@@ -1,7 +1,9 @@
 # My github repos
 
 ```
-A remake / downgrade of my previous github repos project with VueJs (https://github.com/ZTF666/GithubRepositoryLister) , this time using only jquery and basic js.
+A remake / downgrade of my previous github repos project with VueJs.
+ (https://github.com/ZTF666/GithubRepositoryLister) .
+  this time using only jquery and basic js.
 No authentication , just unauth requests to the api .
 this was made during a small tutoring session i made for a friend .
 ```
@@ -14,7 +16,7 @@ Edit the part where it says {USER_NAME} with yours or someone else and you're do
 
 ```
 
-![Screenshot](scrshts/request.png)
+![Screenshot](/scrshts/request.png)
 
 ## Limitations
 
