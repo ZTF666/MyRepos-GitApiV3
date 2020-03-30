@@ -8,6 +8,26 @@ No authentication , just unauth requests to the api .
 this was made during a small tutoring session i made for a friend .
 ```
 
+## Functionnalities
+
+```
+Search 👀 : looks up a user on github and displays all of his PUBLIC repos .
+```
+
+![Screenshot](Code/scrshts/main.png)
+
+```
+Export : exports a user's public repos into a CSV file .
+```
+
+![Screenshot](Code/scrshts/prompt.png)
+
+```
+Example of my repos as a CSV file .
+```
+
+![Screenshot](Code/scrshts/repos.png)
+
 ## Setup
 
 ```
