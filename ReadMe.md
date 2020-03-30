@@ -11,8 +11,10 @@ this was made during a small tutoring session i made for a friend .
 ```
 minimal setup required .
 Edit the part where it says {USER_NAME} with yours or someone else and you're done .
-![Screenshot](scrshts/request.png)
+
 ```
+
+![Screenshot](scrshts/request.png)
 
 ## Limitations
 
