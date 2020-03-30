@@ -32,7 +32,7 @@ Example of my repos as a CSV file .
 
 ```
 minimal setup required .
-Edit the part where it says {USER_NAME} with yours or someone else and you're done .
+Edit the part where it says {USER_NAME} with yours or someone else's and you're done .
 
 ```
 
@@ -41,7 +41,7 @@ Edit the part where it says {USER_NAME} with yours or someone else and you're do
 ## Limitations
 
 ```
-Since the request doen't implement an authentication , you're gonna be limited to 60 requests/hour .
+Since the request doesn't implement an authentication , you're gonna be limited to 60 requests/hour .
 and authentication bumps that to 5K/hour if i recall .
 good luck
 ```
