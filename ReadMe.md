@@ -2,7 +2,10 @@
 
 ```
 A remake / downgrade of my previous github repos project with VueJs.
+
  (https://github.com/ZTF666/GithubRepositoryLister) .
+   https://gitlister.web.app/
+
   this time using only jquery and basic js.
 No authentication , just unauth requests to the api .
 this was made during a small tutoring session i made for a friend .
