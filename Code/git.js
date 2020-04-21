@@ -25,12 +25,12 @@ searchBtn.addEventListener("click", e => {
         statusHtml += "<td>" + status.size + "</td>";
         statusHtml += "<td>" + status.stargazers_count + "</td>";
         statusHtml += "<td>" + status.forks_count + "</td>";
-        statusHtml +=
-          "<td>" +
-          '<a class="github-button" href="' +
-          status.clone_url +
-          '" data-icon="octicon-cloud-download">Clone</a>' +
-          "</td>";
+        // statusHtml +=
+        //   "<td>" +
+        //   '<a class="github-button" href="' +
+        //   status.clone_url +
+        //   '" data-icon="octicon-cloud-download">Clone</a>' +
+        //   "</td>";
         statusHtml += "</tr>";
       });
       $("tbody").html(statusHtml);

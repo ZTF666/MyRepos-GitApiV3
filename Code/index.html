@@ -24,7 +24,7 @@
                     <center id="error">My Github Repos</center>
                 </h1>
                 <center>
-                    <input type="text" id="searchTerm" class="form-control" required aria-required="true">
+                    <input type="text" id="searchTerm" class="form-control" required aria-required="true" placeholder="Insert USERNAME">
                     <button type="button" class="btn btn-info mt-3" id="searchBtn">Search</button>
                     <button type="button" class="btn btn-success mt-3"><a href="#" id="export" role='button'>Export CSV
                         </a></button>
@@ -42,7 +42,7 @@
                         <th scope="col">Size (KB)</th>
                         <th scope="col"><a class="github-button" data-icon="octicon-star">Star</a></th>
                         <th scope="col"><a class="github-button" data-icon="octicon-repo-forked">Fork</a></th>
-                        <th scope="col"><a class="github-button" data-icon="octicon-cloud-download">Download</a></th>
+                        <!-- <th scope="col"><a class="github-button" data-icon="octicon-cloud-download">Download</a></th> -->
                     </tr>
                 </thead>
                 <tbody>
@@ -51,9 +51,8 @@
             </table>
         </div>
     </div>
-    <div id="side"
-        style="display:flex;justify-content:center;align-items:flex-end; background-color: black; color: antiquewhite;">
-        <div>
+    <div id="side">
+        <div class="ztf">
             <small id="tex">🌛 &copy; BlackHole🌌Studio LLC | Made with 💘 by a 👨‍💻 on a 💻 for 👨‍💻 | 2020 | ZTF
                 🌜</small>
         </div>
@@ -80,11 +79,20 @@
         }
 
         #side {
-            height: 20px;
+            height: 25px;
             position: absolute;
             left: 0px;
             right: 0px;
             bottom: 0px;
+            top: 0px;
+        }
+        .ztf{
+            display:flex;
+            justify-content:center;
+            align-items:flex-end;
+             background-color: black;
+              color: antiquewhite;
+            font-size: 20px;
         }
     </style>
     <script type='text/javascript'>
