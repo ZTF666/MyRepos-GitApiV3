@@ -2,6 +2,8 @@
 
 ```
 A remake / downgrade of my previous github repos project with VueJs.
+This spa returns the repositories of a github user.
+Insert the user's name and you'll get all of his public repositories.
 
  (https://github.com/ZTF666/GithubRepositoryLister) .
    https://gitlister.web.app/
