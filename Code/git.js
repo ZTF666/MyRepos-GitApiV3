@@ -25,6 +25,7 @@ searchBtn.addEventListener("click", e => {
         statusHtml += "<td>" + status.size + "</td>";
         statusHtml += "<td>" + status.stargazers_count + "</td>";
         statusHtml += "<td>" + status.forks_count + "</td>";
+        statusHtml += "<td>" + status.watchers + "</td>";
         // statusHtml +=
         //   "<td>" +
         //   '<a class="github-button" href="' +
