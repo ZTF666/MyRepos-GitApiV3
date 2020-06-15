@@ -1,17 +1,27 @@
-# My github repos
+# X's Repos
 
 ```
 A remake / downgrade of my previous github repos project with VueJs.
 This spa returns the repositories of a github user.
 Insert the user's name and you'll get all of his public repositories.
+```
 
- (https://github.com/ZTF666/GithubRepositoryLister) .
-   https://gitlister.web.app/
+[GitRepos VueJS](https://github.com/ZTF666/GithubRepositoryLister) .
 
-  this time using only jquery and basic js.
+[Live Demo](https://gitlister.web.app/)
+
+```
+This time using only jquery and basic js.
 No authentication , just unauth requests to the api .
 this was made during a small tutoring session i made for a friend .
 ```
+
+<div align="center">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1"  width='60' height='60' alt="Javascript">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd5%2FCSS3_logo_and_wordmark.svg%2F1200px-CSS3_logo_and_wordmark.svg.png&f=1&nofb=1"  width='60' height='60' alt="Javascript">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.NCDlcbPXpKNI2PrZHjv9pAHaH5%26pid%3DApi&f=1"  width='60' height='60'>
+<h6><strong>XMLH</strong>ttpRequest</h6>
+</div>
 
 ## Functionnalities
 
