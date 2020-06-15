@@ -57,7 +57,8 @@ Example of my repos as a CSV file .
 
 ```
 Minimal setup required .
-Edit the part where it says {USER_NAME} with yours or someone else's and you're done [IF YOU WANT A STATIC AND FIXED RESULTS] .
+Edit the part where it says {USER_NAME} with yours or someone else's and you're done
+[IF YOU WANT A STATIC AND FIXED RESULTS] .
 ```
 
 <div align="center">
