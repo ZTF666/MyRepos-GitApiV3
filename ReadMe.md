@@ -3,12 +3,16 @@
 ```
 A remake / downgrade of my previous github repos project with VueJs.
 This spa returns the repositories of a github user.
-Insert the user's name and you'll get all of his public repositories.
+Insert the user's name and you'll get all of his public repositories , number of stars , forks and watchers.
 ```
 
-[GitRepos VueJS](https://github.com/ZTF666/GithubRepositoryLister) .
+<div align='center'>
 
-[Live Demo](https://gitlister.web.app/)
+🗂️ [GitRepos VueJS](https://github.com/ZTF666/GithubRepositoryLister) .
+
+📢 [Live Demo](https://gitlister.web.app/)
+
+</div>
 
 ```
 This time using only jquery and basic js.
@@ -29,29 +33,36 @@ this was made during a small tutoring session i made for a friend .
 Search 👀 : looks up a user on github and displays all of his PUBLIC repos .
 ```
 
-![Screenshot](Code/scrshts/main.png)
+<div align="center">
+<img src="Code/scrshts/main.png">
+</div>
 
 ```
 Export 📥 : exports a user's public repos into a CSV file .
 ```
 
-![Screenshot](Code/scrshts/prompt.png)
+<div align="center">
+<img src="Code/scrshts/prompt.png">
+</div>
 
 ```
 Example of my repos as a CSV file .
 ```
 
-![Screenshot](Code/scrshts/repos.png)
+<div align="center">
+<img src="Code/scrshts/repos.png">
+</div>
 
 ## Setup
 
 ```
-minimal setup required .
-Edit the part where it says {USER_NAME} with yours or someone else's and you're done .
-
+Minimal setup required .
+Edit the part where it says {USER_NAME} with yours or someone else's and you're done [IF YOU WANT A STATIC AND FIXED RESULTS] .
 ```
 
-![Screenshot](Code/scrshts/request.png)
+<div align="center">
+<img src="Code/scrshts/request.png">
+</div>
 
 ## EDIT : this was changed later on with the search feature implemented .
 
@@ -59,7 +70,9 @@ Edit the part where it says {USER_NAME} with yours or someone else's and you're 
 there's no need to edit anything anymore .
 ```
 
-![Screenshot](Code/scrshts/requestUpdated.png)
+<div align="center">
+<img src="Code/scrshts/requestUpdated.png">
+</div>
 
 ## Limitations
 
@@ -69,4 +82,29 @@ and authentication bumps that to 5K/hour if i recall .
 good luck
 ```
 
-Made with 💘 by a 👨‍💻 on a 💻 for 👨‍💻 | 2020 | ZTF666
+## Contact
+
+```
+you can contact me at ZTF666@protonmail.ch
+
+```
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><a href="https://ztfportfolio.web.app/" target='_blank'><img src="https://avatars1.githubusercontent.com/u/32502988?v=4" width="100px;" alt=""/><br /><sub><b>ZTF666</b></sub></a></td>
+  </tr>
+</table>
+
+</div>
+
+## License
+
+<div align="center">
+
+**X's Repos** released under the [MIT](LICENSE) License.
+<br><br>
+<strong><p>Made with 💘 by a 👨‍💻 on a 💻 | 2020 | ZTF666 </p> </strong>
+
+</div>
