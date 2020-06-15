@@ -104,7 +104,7 @@ you can contact me at ZTF666@protonmail.ch
 
 <div align="center">
 
-**X's Repos** released under the [MIT](LICENSE) License.
+**🗃️X's Repos🗃️** released under the [MIT](LICENSE) License.
 <br><br>
 <strong><p>Made with 💘 by a 👨‍💻 on a 💻 | 2020 | ZTF666 </p> </strong>
 
